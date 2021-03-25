@@ -12,6 +12,7 @@
 •Swap two facilities with the highest sum for two that are smaller ,
 check if the objective function is better than the current one, if so,
 update the current solution, start over with the list of facilities.
+
 •Once you go through the whole list of facilities and compare the ones
 not in your solution to the two with the greatest sum of distances in
 your solution, if you find no improvement then you are done.
